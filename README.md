@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taiwo</h1>
-<h3 align="center">I am a FullStack Developer, Specialize on Mobile and API development.</h3>
+<h3 align="center">I am a FullStack Developer, Specialize on Mobile App and API development.</h3>
 
 - 👨‍💻 All of my projects are available at [https://taiwohassan.tk/](https://taiwohassan.tk/)
 
