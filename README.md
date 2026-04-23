@@ -1,23 +1,81 @@
 <h1 align="center">Hi 👋, I'm Taiwo</h1>
-<h3 align="center">I am a FullStack Developer, Specialize on Mobile App and API development.</h3>
+<h3 align="center">Software Engineer • Flutter • NestJS • Rust • AI & Automation</h3>
 
-- 👨‍💻 All of my projects are available at [https://taiwohassan.tk/](https://taiwohassan.tk/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/devtaiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devtaiwo" height="30" width="40" /></a>
-<a href="https://twitter.com/devtaiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtaiwo" height="30" width="40" /></a>
+<p align="center">
+I design and build production-grade systems from mobile apps, PWAs and APIs to automation engines and embedded systems(IoT).
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjava&show_icons=true&locale=en&layout=compact" alt="tjava" /></p>
+### 🚀 What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tjava&show_icons=true&locale=en" alt="tjava" /></p>
+- 📱 Build high-performance **Flutter** mobile & PWA applications
+- ⚙️ Architect scalable **NestJS** APIs and backend systems
+- 🦀 Write fast, reliable systems with **Rust**
+- 🤖 Design **AI & automation workflows** using **n8n**
+- 🧩 Integrate payments, emails, notifications, and real-time systems
+- 🐳 Handle DevOps, Docker, NGINX, VPS deployments
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tjava&" alt="tjava" /></p>
+---
+
+### 🧠 Engineering Focus
+
+I enjoy working on systems that combine:
+
+> Mobile Apps + APIs + Automation + Real-World Business Use
+
+Recent work includes:
+<!-- - Inventory + Sales + Micro-HR SaaS (EasyPeasy) -->
+- Real-estate management system API
+- AI Virality Scoring & Channel Intelligence workflows (n8n)
+
+
+---
+
+### 🛠 Core Stack
+
+| Area | Tools |
+|---|---|
+| Mobile & PWA | Flutter, Dart |
+| Backend | NestJS, TypeScript, Rust |
+| Automation | n8n, AI APIs |
+| Databases | PostgreSQL, MongoDB, Redis, MySQL |
+| DevOps | Docker, NGINX, Linux VPS, Jenkins, AWS, GitHub Actions
+| Others | PHP, Python |
+
+---
+
+### 🌍 Portfolio
+
+👨‍💻 Projects & experiments:  
+👉 https://taiwohassan.tk/
+
+---
+
+### ✍️ Writing & Sharing
+
+I share things I learn while building:
+
+- Dev.to: https://dev.to/devtaiwo
+- Twitter/X: https://twitter.com/devtaiwo
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tjava&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjava&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let’s Build
+
+If you’re working on:
+- A startup
+- Automation systems
+- Mobile + API platforms
+- AI workflow systems
+
+I’m always interested in collaborating.
