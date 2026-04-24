@@ -27,7 +27,7 @@ I enjoy working on systems that combine:
 Recent work includes:
 <!-- - Inventory + Sales + Micro-HR SaaS (EasyPeasy) -->
 - Real-estate management system API
-- AI Virality Scoring & Channel Intelligence workflows (n8n)
+- [AI Virality Scoring & Channel Intelligence workflows (n8n)](https://n8n.io/workflows/15253)
 
 
 ---
