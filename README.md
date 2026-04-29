@@ -26,7 +26,8 @@ I enjoy working on systems that combine:
 
 Recent work includes:
 <!-- - Inventory + Sales + Micro-HR SaaS (EasyPeasy) -->
-- Real-estate management system API
+- Real-estate management system
+- [SecretOps, DevSecOps Real-Time Repos Secret Leak Remediation (n8n)](https://n8n.io/workflows/15314)
 - [AI Virality Scoring & Channel Intelligence workflows (n8n)](https://n8n.io/workflows/15253)
 
 
