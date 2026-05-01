@@ -59,6 +59,7 @@ I share things I learn while building:
 
 - Dev.to: https://dev.to/devtaiwo
 - Twitter/X: https://twitter.com/devtaiwo
+- LinkedIn: https://www.linkedin.com/in/taiwo-hassan-oo7/
 
 ---
 
