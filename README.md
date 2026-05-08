@@ -28,6 +28,7 @@ Recent work includes:
 <!-- - Inventory + Sales + Micro-HR SaaS (EasyPeasy) -->
 - [Real-estate management system](https://www.1159realty.com)
 - [SecretOps, DevSecOps Real-Time Repos Secret Leak Remediation (n8n)](https://n8n.io/workflows/15314)
+- [Analyze OpenObserve logs and traces with an AI MCP observability toolkit (n8n)](https://n8n.io/workflows/15478)
 - [AI Virality Scoring & Channel Intelligence workflows (n8n)](https://n8n.io/workflows/15253)
 
 
