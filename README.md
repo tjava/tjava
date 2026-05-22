@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taiwo</h1>
-<h3 align="center">Software Engineer • Flutter • NestJS • Rust • AI & Automation</h3>
+<h3 align="center">Software Engineer • Flutter • NestJS • PHP • AI & Automation</h3>
 
 <p align="center">
 I design and build production-grade systems from mobile apps, PWAs and APIs to automation engines and embedded systems(IoT).
@@ -10,7 +10,7 @@ I design and build production-grade systems from mobile apps, PWAs and APIs to a
 ### 🚀 What I Do
 
 - 📱 Build high-performance **Flutter** mobile & PWA applications
-- ⚙️ Architect scalable **NestJS** APIs and backend systems
+- ⚙️ Architect scalable **NestJS**, **PHP** APIs and backend systems
 - 🦀 Write fast, reliable systems with **Rust**
 - 🤖 Design **AI & automation workflows** using **n8n**
 - 🧩 Integrate payments, emails, notifications, and real-time systems
@@ -39,18 +39,11 @@ Recent work includes:
 | Area | Tools |
 |---|---|
 | Mobile & PWA | Flutter, Dart |
-| Backend | NestJS, TypeScript, Rust |
+| Backend | NestJS, TypeScript, Laravel, PHP |
 | Automation | n8n, AI APIs |
 | Databases | PostgreSQL, MongoDB, Redis, MySQL |
 | DevOps | Docker, NGINX, Linux VPS, Jenkins, AWS, GitHub Actions
-| Others | PHP, Python |
-
----
-
-### 🌍 Portfolio
-
-👨‍💻 Projects & experiments:  
-👉 https://taiwohassan.tk/
+| Others | Rust, Python |
 
 ---
 
