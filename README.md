@@ -11,10 +11,10 @@ I design and build production-grade systems from mobile apps, PWAs and APIs to a
 
 - 📱 Build high-performance **Flutter** mobile & PWA applications
 - ⚙️ Architect scalable **NestJS**, **PHP** APIs and backend systems
-- 🦀 Write fast, reliable systems with **Rust**
-- 🤖 Design **AI & automation workflows** using **n8n**
+- 🤖 Design **AI agent & automation workflows** using **n8n**
 - 🧩 Integrate payments, emails, notifications, and real-time systems
 - 🐳 Handle DevOps, Docker, NGINX, VPS deployments
+- 🦀 Write fast, reliable systems with **Rust**
 
 ---
 
@@ -27,10 +27,13 @@ I enjoy working on systems that combine:
 Recent work includes:
 <!-- - Inventory + Sales + Micro-HR SaaS (EasyPeasy) -->
 - [Real-estate management system](https://www.1159realty.com)
+- [Sync PostgreSQL data to a Pinecone vector knowledge base using Gemini embeddings (n8n)](https://n8n.io/workflows/15833)
+- [Analyze OpenObserve logs and traces with an AI MCP observability toolkit (n8n)](https://n8n.io/workflows/15833)
 - [SecretOps, DevSecOps Real-Time Repos Secret Leak Remediation (n8n)](https://n8n.io/workflows/15314)
-- [Analyze OpenObserve logs and traces with an AI MCP observability toolkit (n8n)](https://n8n.io/workflows/15478)
 - [AI Virality Scoring & Channel Intelligence workflows (n8n)](https://n8n.io/workflows/15253)
 
+
+- [Paystack Community Node for n8n](https://www.npmjs.com/package/n8n-nodes-paystack)
 
 ---
 
@@ -52,7 +55,6 @@ Recent work includes:
 I share things I learn while building:
 
 - Dev.to: https://dev.to/devtaiwo
-- Twitter/X: https://twitter.com/devtaiwo
 - LinkedIn: https://www.linkedin.com/in/taiwo-hassan-oo7/
 
 ---
