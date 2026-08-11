@@ -46,6 +46,7 @@ Recent work includes:
 | Automation | n8n, AI APIs |
 | Databases | PostgreSQL, MongoDB, Redis, MySQL |
 | DevOps | Docker, NGINX, Linux VPS, Jenkins, AWS, GitHub Actions
+| AI Framework | LangChain / LangGraph |
 | Others | Rust, Python |
 
 ---
