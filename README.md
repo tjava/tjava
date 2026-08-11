@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taiwo</h1>
-<h3 align="center">Software Engineer • Flutter • NestJS • PHP • AI & Automation</h3>
+<h3 align="center">Software Engineer • Flutter • NestJS • Python • AI & Automation</h3>
 
 <p align="center">
-I design and build production-grade systems from mobile apps, PWAs and APIs to automation engines and embedded systems(IoT).
+I design and build production-grade systems from mobile apps, PWAs and APIs to ai automations.
 </p>
 
 ---
@@ -10,8 +10,8 @@ I design and build production-grade systems from mobile apps, PWAs and APIs to a
 ### 🚀 What I Do
 
 - 📱 Build high-performance **Flutter** mobile & PWA applications
-- ⚙️ Architect scalable **NestJS**, **PHP** APIs and backend systems
-- 🤖 Design **AI agent & automation workflows** using **n8n**
+- ⚙️ Architect scalable **NestJS**, **Python** APIs and backend systems
+- 🤖 Design **AI agent & automation workflows** using **n8n** and **LangChain / LangGraph**
 - 🧩 Integrate payments, emails, notifications, and real-time systems
 - 🐳 Handle DevOps, Docker, NGINX, VPS deployments
 - 🦀 Write fast, reliable systems with **Rust**
@@ -42,12 +42,12 @@ Recent work includes:
 | Area | Tools |
 |---|---|
 | Mobile & PWA | Flutter, Dart |
-| Backend | NestJS, TypeScript, Laravel, PHP |
+| Backend | NestJS, TypeScript, Python, PHP |
 | Automation | n8n, AI APIs |
 | Databases | PostgreSQL, MongoDB, Redis, MySQL |
 | DevOps | Docker, NGINX, Linux VPS, Jenkins, AWS, GitHub Actions
 | AI Framework | LangChain / LangGraph |
-| Others | Rust, Python |
+| Others | Rust |
 
 ---
 
