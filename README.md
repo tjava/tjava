@@ -29,9 +29,10 @@ Recent work includes:
 - [Real-estate management system](https://www.1159realty.com)
 - [Sync PostgreSQL data to a Pinecone vector knowledge base using Gemini embeddings (n8n)](https://n8n.io/workflows/15833)
 - [Analyze OpenObserve logs and traces with an AI MCP observability toolkit (n8n)](https://n8n.io/workflows/15833)
-- [SecretOps, DevSecOps Real-Time Repos Secret Leak Remediation (n8n)](https://n8n.io/workflows/15314)
 - [AI Virality Scoring & Channel Intelligence workflows (n8n)](https://n8n.io/workflows/15253)
+- [AI-Powered SaaS Vendor Risk Assessment (n8n)](https://n8n.io/workflows/18503)
 
+---
 
 - [Paystack Community Node for n8n](https://www.npmjs.com/package/n8n-nodes-paystack)
 
