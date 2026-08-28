@@ -32,8 +32,6 @@ Recent work includes:
 - [AI Virality Scoring & Channel Intelligence workflows (n8n)](https://n8n.io/workflows/15253)
 - [AI-Powered SaaS Vendor Risk Assessment (n8n)](https://n8n.io/workflows/18503)
 
----
-
 - [Paystack Community Node for n8n](https://www.npmjs.com/package/n8n-nodes-paystack)
 
 ---
